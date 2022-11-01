@@ -1,5 +1,5 @@
-this is my first git
-git is an agile repository
-git is used locally at user side and
+this is my third  git
+git is an agile repository means its support parallel execution of work
+git is used locally at user side means on our laptop
 git hub is used remotely by web server.
 

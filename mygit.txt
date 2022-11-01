@@ -1,0 +1,5 @@
+this is my first git
+git is an agile repository
+git is used locally at user side and
+git hub is used remotely by web server.
+
